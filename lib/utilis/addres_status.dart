@@ -1,0 +1,1 @@
+enum AddressStatus{loading,success,failure}
